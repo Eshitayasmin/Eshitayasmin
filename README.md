@@ -95,5 +95,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Eshitayasmin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Eshitayasmin.Eshitayasmin.svg)
